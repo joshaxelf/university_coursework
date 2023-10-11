@@ -1,0 +1,3 @@
+/Users/joshforeman/code/c/hello/cmake-build-debug/CMakeFiles/hello.dir
+/Users/joshforeman/code/c/hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshforeman/code/c/hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir

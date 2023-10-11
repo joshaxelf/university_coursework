@@ -1,0 +1,3 @@
+/Users/joshforeman/code/c/primitive/cmake-build-debug/CMakeFiles/primitive.dir
+/Users/joshforeman/code/c/primitive/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshforeman/code/c/primitive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
