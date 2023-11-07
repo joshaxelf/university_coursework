@@ -1,4 +1,13 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/joshforeman/code/c/hello -B /Users/joshforeman/code/c/hello/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/joshforeman/code/c/hello/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/joshforeman/code/university-coursework/c/hello -B /Users/joshforeman/code/university-coursework/c/hello/cmake-build-debug
+-- The C compiler identification is AppleClang 15.0.0.15000040
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.7s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: exercise01.c
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

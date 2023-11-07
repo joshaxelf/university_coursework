@@ -31,8 +31,10 @@ public class NodeQueue<E> implements QueueADT<E> {
     }
 
     public void enqueue(E elem) {
-        // Create and link in a new node at tail
-        Node<E> newNode = new Node<>(elem, head);
+        // Create and link in a new node at tail  ** previously linked to head, need to link to null - lost one mark**
+
+        // Node<E> newNode = new Node<>(elem, head);
+        Node<E> newNode = new Node<>(elem, null);
 
         // If Node array is empty, make a new Node and set it to both head and tail as must = both
         if (isEmpty()) {
