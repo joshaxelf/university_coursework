@@ -4,6 +4,7 @@ public class fibIterative {
 
     public static void main(String[] args) {
 
+
         // Declare starting point = previous
         // Declare second in system = current
         // Need a counter for arithmetic
