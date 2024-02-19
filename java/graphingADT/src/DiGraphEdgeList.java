@@ -5,7 +5,7 @@ import java.util.*;
  * 
  * @author I.Ross 
  */
-public class DiGraphEdgeList implements DiGraphADT
+public class  DiGraphEdgeList implements DiGraphADT
 {
 
     // instance variable
