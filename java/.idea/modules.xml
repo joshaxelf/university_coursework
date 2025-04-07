@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MOOCFI Java/example/example.iml" filepath="$PROJECT_DIR$/MOOCFI Java/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphingADT/graphingADT.iml" filepath="$PROJECT_DIR$/graphingADT/graphingADT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/players/players.iml" filepath="$PROJECT_DIR$/players/players.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOOCFI Java/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/MOOCFI Java/sandbox/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOOCFI Java/scanning/scanning.iml" filepath="$PROJECT_DIR$/MOOCFI Java/scanning/scanning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university_coursework.iml" filepath="$PROJECT_DIR$/university_coursework.iml" />
+    </modules>
+  </component>
+</project>
